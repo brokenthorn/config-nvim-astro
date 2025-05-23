@@ -10,9 +10,9 @@ return {
   -- Available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   -- Color schemes:
-  -- { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   -- { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.colorscheme.nightfox-nvim" },
+  -- { import = "astrocommunity.colorscheme.nightfox-nvim" },
 
   -- Various file types:
   { import = "astrocommunity.pack.json" },

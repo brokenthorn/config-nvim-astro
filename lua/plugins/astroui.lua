@@ -8,14 +8,19 @@ return {
   opts = {
     -- change colorscheme
     -- colorscheme = "astrodark",
+
     -- https://github.com/EdenEast/nightfox.nvim
     -- colorscheme = "carbonfox",
     -- colorscheme = "dawnfox",
     -- colorscheme = "dayfox",
-    colorscheme = "duskfox",
+    -- colorscheme = "duskfox",
     -- colorscheme = "nordfox",
     -- colorscheme = "terafox",
     -- colorscheme = "nightfox",
+
+    -- colorscheme = "catppuccin",
+
+    colorscheme = "kanagawa",
 
     -- AstroUI allows you to easily modify highlight groups easily for any and all colorschemes
     -- highlights = {
